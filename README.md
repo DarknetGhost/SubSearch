@@ -2,7 +2,7 @@
 
 Herramienta basica para encontrar subdominios de una url
 
-#Instalacion
+# Instalacion
 
 git clone https://github.com/DarknetGhost/SubSearch
 cd SubSearch
